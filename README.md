@@ -17,11 +17,23 @@ An android quiz app for taking and creating mcq's based quizzes and also added a
 
 # Pictures
 <p float="left">
-<img src="https://github.com/aliahmad39/TMDB-App/blob/main/art/homePage.jpg" width="150" height="280">
-<img src="https://github.com/aliahmad39/TMDB-App/blob/main/art/detail.jpg" width="150" height="280">
-<img src="https://github.com/aliahmad39/TMDB-App/blob/main/art/search.jpg" width="150" height="280">
+<img src="https://github.com/aliahmad39/QuizApp/blob/main/art/Login.jpg" width="150" height="280">
+<img src="https://github.com/aliahmad39/QuizApp/blob/main/art/Register.jpg" width="150" height="280">
+<img src="https://github.com/aliahmad39/QuizApp/blob/main/art/SelectCourse.jpg" width="150" height="280">
+  <img src="https://github.com/aliahmad39/QuizApp/blob/main/art/questions.jpg" width="150" height="280">
+<img src="https://github.com/aliahmad39/QuizApp/blob/main/art/QuizResult.jpg" width="150" height="280">
+<img src="https://github.com/aliahmad39/QuizApp/blob/main/art/SpinWheel.jpg" width="150" height="280">
+  <img src="https://github.com/aliahmad39/QuizApp/blob/main/art/coins.jpg" width="150" height="280">
+<img src="https://github.com/aliahmad39/QuizApp/blob/main/art/UpdateProfile.jpg" width="150" height="280">
 </p>
 
+
+<p float="left">
+<img src="https://github.com/aliahmad39/QuizApp/blob/main/art/QuizResult.jpg" width="150" height="280">
+<img src="https://github.com/aliahmad39/QuizApp/blob/main/art/SpinWheel.jpg" width="150" height="280">
+  <img src="https://github.com/aliahmad39/QuizApp/blob/main/art/coins.jpg" width="150" height="280">
+<img src="https://github.com/aliahmad39/QuizApp/blob/main/art/UpdateProfile.jpg" width="150" height="280">
+</p>
 
 
 # License
