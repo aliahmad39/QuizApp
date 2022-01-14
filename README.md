@@ -1,25 +1,17 @@
 # QuizApp
-Complete Online Quiz App implemented on Firebase
+An android quiz app for taking and creating mcq's based quizzes and also added a spinner for entertainment implement in firebase.
 
-# TMDB (The Movie Database) App
-TMDB is an Professional Android App built to display All Available Movies At TMDB site.
 
 # Functionality
-- Communication with a WebService(Rest Api) using Retrofit
-- Parsing Json To Java
-- MVVM Architecture: View Model, Repository , Client Structure
-- Observables , LiveData , MutableLivaData  
-- Network Security Config for HTTP (API 28+)
-- Executers and Background Threads
-- ThreadPools  
-- Singleton
-- Multiple View Types in Recycler View
-- RecyclerView Pagination
-- Custom Toolbar
-- Glide to display Image
-- Passing data b/w Activities using Intent extras
-
-
+- Register User
+- Login with Email/Password
+- Select Course
+- Attempt Quiz
+- Retake Quiz
+- SpinWheel
+- Earn Coins
+- Withdraw Coins
+- Update Profile
 
 
 # Pictures
